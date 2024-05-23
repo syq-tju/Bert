@@ -66,4 +66,4 @@ model.save_pretrained('./my_fakenews_model')
 tokenizer.save_pretrained('./my_fakenews_model')
 ```
 
-这些步骤为你提供了从头开始微调一个 BERT 模型用于假新闻检测的完整指南。根据你的具体数据和需求调整参数和训练细节。
+这些步骤提供了从头开始微调一个 BERT 模型用于假新闻检测的完整指南。根据具体数据和需求调整参数和训练细节。
